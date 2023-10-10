@@ -1,0 +1,43 @@
+body {
+    font-family: Georgia;
+    background-image: url(/latihan/latihan3d/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    font-family: Comic Sans MS;
+    font-size: 60px;
+    color: darkblue;
+}
+
+h5 {
+    color: darkgoldenrod;
+    text-align: center;
+}
+
+.p2 {
+    color: red;
+}
+
+a:hover.p3 {
+    color: white;
+    background-color: blue;
+}
+
+h2 {
+    text-align: center;
+    font-style: italic;
+}
+
+h3 {
+    font-style: oblique;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-weight: bold;
+    color: black;
+}

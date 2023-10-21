@@ -1,0 +1,16 @@
+body {
+    background-color: aqua;
+    font-family: georgia;
+    text-align: justify;
+}
+
+.FB {
+    color: darkblue;
+    font-size: 60px;
+    font-family: Comic sans MS;
+}
+
+h4 {
+    text-align: right;
+    font-style: oblique;
+}

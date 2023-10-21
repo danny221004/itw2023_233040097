@@ -1,0 +1,39 @@
+body {
+    background-color: aqua;
+    font-family: georgia;
+    text-align: justify;
+}
+
+.FB {
+    text-align: center;
+    color: darkblue;
+    font-size: 60px;
+    font-family: Comic sans MS;
+}
+
+.nama1 {
+    color: white;
+}
+
+.nama1:hover {
+    color: red;
+}
+
+.nama2:hover {
+    color: white;
+    background-color: blue;
+}
+
+.h4 {
+    text-align: right;
+    font-style: oblique;
+}
+
+.p1 {
+    text-align: center;
+    color: orange;
+}
+
+.p2 {
+    text-align: right;
+}

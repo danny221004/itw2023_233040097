@@ -1,0 +1,46 @@
+body {
+    background-image: url(background.png);
+    background-repeat: repeat-x;
+    font-family: georgia;
+    text-align: justify;
+}
+
+.FB {
+    text-align: center;
+    color: darkblue;
+    font-size: 60px;
+    font-family: Comic sans MS;
+}
+
+.nama1 {
+    color: red;
+
+}
+
+.nama1:hover {
+    color: blue;
+}
+
+.nama2:hover {
+    color: white;
+    background-color: blue;
+}
+
+.h3 {
+    font-variant: small-caps;
+    text-align: center;
+}
+
+.h4 {
+    text-align: center;
+    font-style: oblique;
+}
+
+.p1 {
+    text-align: center;
+    color: orange;
+}
+
+.p2 {
+    text-align: right;
+}

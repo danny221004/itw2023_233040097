@@ -1,0 +1,25 @@
+body {
+    background-color: aliceblue;
+}
+
+div {
+    width: 150px;
+    height: 150px;
+    margin: 50px auto;
+}
+
+.kotak1 {
+    background-color: blue;
+    border-radius: 50% 50% 50% 0;
+}
+
+.kotak2 {
+    background-color: red;
+    /* box-shadow: <x-offset> <y-offset> <blur> <color>; */
+    box-shadow: 15px 15px 15px black;
+}
+
+.kotak3 {
+    background-color: black;
+    transition: cubic-bezier(red 0.075, blue 0.82, yellow 0.165, 1);
+}

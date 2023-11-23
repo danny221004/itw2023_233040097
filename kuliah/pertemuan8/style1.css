@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 600px;
+    height: 600px;
+    margin: 100px auto;
+    border: 10px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.box1 {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(4, 154, 154);
+}
+
+.box2 {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(227, 38, 0);
+}
+
+.box3 {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(32, 33, 33);
+}
